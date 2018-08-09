@@ -1,0 +1,31 @@
+.footer-list {
+    margin: 0 auto;
+    width: 1080px;
+    border-top: solid 1px;
+    border-color: #d1d5da;
+    margin-top: 35px;
+    padding-top: 35px;
+    width: 1080px;
+    font-size: 12px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.footer-list ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+.footer-list li {
+    display: inline;
+}
+
+.footer-list li a{
+    padding: 4px 6px;
+}
+
+.footer-github{
+    font-size: 2em;
+    color: grey;
+}

@@ -1,0 +1,26 @@
+.navbar-list {
+    display: flex;
+    align-items: center;
+    align-content: center;
+    padding-left: 0px;
+}
+.navbar-list ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+.navbar-list li {
+   display: inline
+}
+
+.navbar-list li a {
+    color: white;
+    padding: 4px 6px;
+    text-decoration: none;
+    font-size: 14px
+}
+
+li a:hover {
+    color: grey;
+}

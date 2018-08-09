@@ -1,0 +1,36 @@
+.left-body-div{
+    border-style: solid;
+    border-width: 1px;
+    border-color: #d1d5da;
+    margin-top: 15px;
+    border-radius: 3px;
+}
+
+.top-box{
+    border-bottom: 1px solid;
+    border-color: #d1d5da;
+    font-size: 14px;
+    display: flex;
+    justify-content: space-between;
+    padding: 8px 10px;
+    background-color: #f6f8fa;
+}
+
+.top-box button{
+    font-size: 12px;
+    padding: 3px 5px;
+    /* background-color: green; */
+}
+
+.left-body-form {
+    padding: 20px 20px 5px 20px;
+}
+
+.fa-ul {
+    margin-left: 20px;
+}
+
+.fas.fa-book {
+    margin-right: 5px;
+}
+

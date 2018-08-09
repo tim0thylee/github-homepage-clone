@@ -1,0 +1,61 @@
+
+.body-section {
+    margin: 0px auto;
+    width: 1080px;
+    padding-top: 30px
+}
+
+.right-side-body{
+    padding-left: 70px;
+}
+
+.body-section-button{
+    font-size: 12px;
+    padding: 3px 5px;
+    width: 108px;
+}
+.no-thanks-button {
+    font-size: 12px;
+    padding: 3px 5px;
+    width: 108px;
+    border-color: #d1d5da;
+}
+.dashboard-div{
+    border: solid 1px black;
+    padding: 12px;
+    border-color: #d1d5da;
+    border-radius: 3px;
+    width: 646.66px;
+    font-size: 14px;
+}
+.dashboard-beta-span{
+    border: solid 1px green;
+    border-radius: 3px;
+    margin-left: 5px;
+    font-size: 10px;
+    padding: 3px;
+}
+
+.middle-heading {
+    display: flex;
+    justify-content: space-between;
+    border-bottom: solid 1px;
+    margin-top: 25px;
+    margin-bottom: 15px;
+    border-color: #d1d5da;
+    width: 646.66px;
+}
+
+.explore-div {
+    border: solid 1px;
+    border-color: #d1d5da;
+    border-radius: 3px;
+    padding: 35px;
+    width: 646.66px;
+}
+
+.explore-github-button {
+    background-color: white;
+    border-color: #d1d5da;
+    border-radius: 3px;
+}

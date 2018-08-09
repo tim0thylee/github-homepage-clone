@@ -1,0 +1,62 @@
+.header {
+    background-color: #24292e;
+    color: rgba(255,255,255,0.75);
+}
+
+/* put lists on opposite sides of header */
+.header-row{
+    display: flex;
+    justify-content: space-between;
+    margin: 0 auto;
+    width: 1080px;
+    padding-top: 10px;
+    height: 60px;
+}
+
+.header-github {
+    color:white;
+    font-size: 2.5em;
+}
+
+.fa-bell {
+    color: #D3D3D3;
+}
+.fa-plus {
+    color: #D3D3D3;
+}
+
+
+.fa-plus:before {
+    content: "\f067";
+    margin-right: 10px;
+}
+
+.fa-user-tie:before {
+    content: "\f508";
+    margin-right: 10px;
+}
+/* form {
+    display: inline-block;
+} */
+
+#searchInputForm{
+    width: 273px;
+    height: 30px;
+}
+
+/* the right side navbar list */
+.right-side{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    padding-right: 4px;
+}
+
+
+
+
+
+
+
+
+
